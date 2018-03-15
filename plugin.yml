@@ -1,0 +1,5 @@
+main: com.icodehaven.combatpermissions.Core
+name: CombatPermissions
+version: 1.0.0
+authors: [iCodeHaven]
+description: A plugin to prevent combat, unless the players have permission to combat
